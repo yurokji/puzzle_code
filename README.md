@@ -1,2 +1,2 @@
 # puzzle_code
-silly implementation of a bunch of silly puzzles 
+A bunch of naive, dirty codes of puzzles 
