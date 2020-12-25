@@ -1,0 +1,30 @@
+a00h p01v b04v x12h q31v c44h o50v r25h
+a00v x02h q03h f05h d24v b31v c42v e44h g35h o30h p51v
+a13h b14v c25h x12h o32v p53v
+a23v b54v x12h o00v p03v q33h r25h
+a00h b50v d04v e44h f45h g52v x12h o30v p01v q41v r13h
+a00h b30v c01h d03h e23v f04v x12h o42v p51v q32v r35h
+a10v b20h c40v d50v e31v f52v g34v i23h x12h
+a30h b21h c41v d22v e32v f03h g43h h04h i24v k05h o50v p34h q35h x02h
+a10v b20h c40h d31v e41h f52v g24v h54v x02h o42v p03v q13h
+a00h b20v c40h d01h e34v f44h g05h h45h x12h o51v p02v q13h
+a00h b20h c40v d01v e21h f12v g05h o50v p22v q33h x32h
+a20v b41h c13v d43h e04v f24h g54v o30h p31v q15h x12h
+a10h b30h c01h d21h e23v f33v g44h h15h i35h o41v p51v q02v r12v x22h
+a20v b01h c41v d02v e13v f23v g33h i34h o30h p53v q15h x12h
+a10h b23v e54v o00v p30v q33h r25h x12h
+a10h b30v c40h d11h e51v f03h g04v h15h i35h o22v p53v x32h
+a10v b20h c40h d13h e33h f24v g34v h44h i05h o01v p51v x12h
+a30v b40h c32v d42v e14v f24v g34h o00v p03h q53v x12h
+a10v b40h c41h d03v e14h f34v g45h o20v p52v q13h x02h
+a20v b40h c01v d31h e03h f23v g33v h44h i15h j35h o10v p51v x22h
+a00h b20v c40h d01h e42v f14v g34v h44h i45h o51v p02v q13h x12h
+a00v b10h c11h d22v e33h f24v o30v p52v r35h x02h
+a00h b20v c11v d34v e44h f05h g45h o01v p41v q51v r13h x22h
+a10h b30v c40v d11v e33v f24v g44h h05h i35h o00v p51v q03h x32h
+a00h b20v c40h d42v e34v f44h g05h o01v p51v q13h x22h
+a20v b31h c51v d32v e42v f03h g34v h44h i54h o00v p30h x12h
+a10v b20h c40v d21v e51v f03h g23v h33h i04v j34h o53v p25h x02h
+a40v b50v c52v d13v e24v f34v g44h i45h o00h p02v q23h x12h
+a21v b52v c03v d13h e33h f14h g34v h54v o00h p40v r05h x02h
+a20v b01h c41v d02v e43h f04h g24h h54v i05h j25h o30h p31v x12h
