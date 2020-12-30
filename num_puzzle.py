@@ -27,28 +27,24 @@ FPSCLOCK = pygame.time.Clock()
 
 
 def main():
-    piece_1 = pygame.image.load("./img/1.png")
-    piece_1 = pygame.transform.scale(piece_1, (100, 100))
-    piece_2 = pygame.image.load("./img/2.png")
-    piece_2 = pygame.transform.scale(piece_2, (100, 100))  
-    piece_3 = pygame.image.load("./img/3.png")
-    piece_3 = pygame.transform.scale(piece_3, (100, 100))
-    piece_4 = pygame.image.load("./img/4.png")
-    piece_4 = pygame.transform.scale(piece_4, (100, 100)) 
-    piece_5 = pygame.image.load("./img/5.png")
-    piece_5 = pygame.transform.scale(piece_5, (100, 100))
-    piece_6 = pygame.image.load("./img/6.png")
-    piece_6 = pygame.transform.scale(piece_6, (100, 100)) 
-    piece_7 = pygame.image.load("./img/7.png")
-    piece_7 = pygame.transform.scale(piece_7, (100, 100))
-    piece_8 = pygame.image.load("./img/8.png")
-    piece_8 = pygame.transform.scale(piece_8, (100, 100))
-    piece_0 = pygame.image.load("./img/0.png")
-    piece_0 = pygame.transform.scale(piece_0, (100, 100))  
 
-    pieces = [[piece_1, piece_2, piece_3], 
-              [piece_4, piece_5, piece_6],
-              [piece_7, piece_8, piece_0]]
+    img = pygame.image.load("./pic.jpg")
+    img = pygame.transform.scale(img, (300, 300))
+    piece_0 = pygame.image.load("./black.jpeg")
+    piece_0 = pygame.transform.scale(piece_0, (100, 100))
+
+    pieces = []
+    for i in range(3):
+        rowImgs = []
+        for j in range(3):
+            sImg = img.subsurface((100*j, 100*i, 100, 100))
+            rowImgs.append(sImg)
+        pieces.append(rowImgs)
+    pieces[2][2] = piece_0
+
+
+
+
 
 
     print(num_list)
